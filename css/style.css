@@ -152,33 +152,33 @@ html {
     font-size: 4rem;
 }
 
-.about .row{
+.about .row {
     display: flex;
     flex-wrap: wrap;
     margin-top: 5rem;
     justify-content: center;
 }
 
-.row .dokum{
+.row .dokum {
     flex-basis: 31%;
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: center;
 }
 
-.row .dokum h3{
+.row .dokum h3 {
     font-family: 'Patrick Hand', cursive;
     font-size: 1.8rem;
     color: #a57f42;
 }
 
-.row .dokum p{
+.row .dokum p {
     font-family: 'Dosis', sans-serif;
     font-weight: bolder;
     font-size: 1.5rem;
 }
 
-.row .dokum img{
+.row .dokum img {
     width: 70%;
     border-radius: 10px;
 }
@@ -202,7 +202,7 @@ html {
     
 }
 
-.produk h2 span{
+.produk h2 span {
     color: #F0DED0;
 
 }
@@ -287,7 +287,7 @@ html {
     width: 550px;
 }
 
-.hasilteks h2{
+.hasilteks h2 {
     font-family: 'Playfair', serif;
     color: #fff;
     font-size: 5rem;
@@ -334,7 +334,7 @@ html {
 
 }
 
-.team h1{
+.team h1 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -423,7 +423,6 @@ html {
     margin-bottom: 15px;
     font-family: 'Kaushan Script', sans-serif;
     font-size: 24px;
-
 }
 
 .team .team_box .profile .info .bio {
