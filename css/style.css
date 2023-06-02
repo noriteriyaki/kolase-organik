@@ -227,13 +227,13 @@ html {
     margin-inline: 6rem;
 }
 
-.produk .row h3{
+.produk .row h3 {
     color: #fff;
     font-family: 'Montserrat', sans-serif;
     font-weight: lighter;
 }
 
-.produk .row p{
+.produk .row p {
     color: #F0DED0;
     font-family: 'Patrick Hand', cursive;
     font-weight: bold;
@@ -252,12 +252,12 @@ html {
     margin-right: 2rem;
 }
 
-.produk .row .product-card .product-card-title{
+.produk .row .product-card .product-card-title {
     margin-top: 1rem auto 0.5rem;
     font-size: 2rem;
 }
 
-.produk .row .product-card .cta{
+.produk .row .product-card .cta {
     margin-top: 1rem;
     display: inline-block;
     padding: 1rem 2rem;
@@ -323,13 +323,13 @@ html {
 
 /*team ngezzz*/
 
-.team{
+.team {
     width: 100%;
     height: 90vh;
 
 }
 
-.team .team_box .profile img{
+.team .team_box .profile img {
     width: 100px;
 
 }
@@ -347,7 +347,7 @@ html {
     
 }
 
-.team h1 span{
+.team h1 span {
     color: #B99B6B;
     margin-left: 15px;
     text-decoration: none;
@@ -362,14 +362,14 @@ html {
 }
 
 
-.team .team_box{
+.team .team_box {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 1rem;
 }
 
-.team .team_box .profile{
+.team .team_box .profile {
     width: 250px;
     height: 250px;
     border-radius: 50%;
@@ -385,12 +385,12 @@ html {
     justify-content: center;
 }
 
-.team .team_box .profile:hover{
+.team .team_box .profile:hover {
     border-radius: 20px;
     height: 320px;
 }
 
-.team .team_box .profile img{
+.team .team_box .profile img {
     width: 200px;
     height: 200px;
     object-fit: cover;
@@ -402,23 +402,23 @@ html {
     transition: 0.4s;
 }
 
-.team .team_box .profile:hover img{
+.team .team_box .profile:hover img {
     border-radius: 20px;
     margin-top: -230px;
 }
 
-.team .team_box .profile .info{
+.team .team_box .profile .info {
     position: absolute;
     text-align: center;
     top: 25%;
     transition: 0.4s;
 }
 
-.team .team_box .profile:hover .info{
+.team .team_box .profile:hover .info {
     top: 60%;
 }
 
-.team .team_box .profile .info .name{
+.team .team_box .profile .info .name {
     color: #571515;
     margin-bottom: 15px;
     font-family: 'Kaushan Script', sans-serif;
@@ -426,7 +426,7 @@ html {
 
 }
 
-.team .team_box .profile .info .bio{
+.team .team_box .profile .info .bio {
     width: 100%;
     text-align: center;
     margin: 0 auto 10px auto;
@@ -435,14 +435,14 @@ html {
     font-size: 14px;
 }
 
-.team .team_box .profile .info .team_icon a{
+.team .team_box .profile .info .team_icon a {
     margin: 10px 5px 5px 0;
     cursor: pointer;
     transition: 0.3s;
     color: #571515;
 }
 
-.team .team_box .profile .info .team_icon a:hover{
+.team .team_box .profile .info .team_icon a:hover {
     color: #384e38;
 }
 
