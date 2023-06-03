@@ -40,7 +40,7 @@ html {
     font-size: 3rem;
     
     color: #fff;
-    font-family: 'Playfair', serif;
+    font-family: 'Satisfy', cursive;
     
 }
 
@@ -84,6 +84,7 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    background-image: url(../pictures/kolasepc.png);
 }   
 
 .hero::after {
@@ -197,7 +198,7 @@ html {
     text-align: center;
     font-size: 5rem;
     color: #ffffff;
-    font-family: 'Playfair', serif;
+    font-family: 'Satisfy', cursive;
     font-weight: lighter;
     
 }
@@ -229,13 +230,13 @@ html {
 
 .produk .row h3 {
     color: #fff;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair', sans-serif;
     font-weight: lighter;
 }
 
 .produk .row p {
     color: #F0DED0;
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 }
 
@@ -629,6 +630,9 @@ footer .credit p {
     .navbar .navbar-nav.active {
         right: 0;
     }
+    
+    .hero {
+        background-image: url(../pictures/kolasehp.png)
 
     .hasil img {
         height: auto;
