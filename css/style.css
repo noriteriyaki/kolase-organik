@@ -610,7 +610,7 @@ footer .credit p {
     }
 
     body{
-        min-height: 480vh;
+        min-height: 500vh;
     }
 
     .navbar .navbar-nav {
@@ -642,13 +642,53 @@ footer .credit p {
     .navbar .navbar-nav.active {
         right: 0;
     }
-    
+
+    .about .row{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 5rem;
+        justify-content: center;
+        display: inline-block;
+    }
+
+    .about h2{
+        margin-bottom: 1rem;
+    }
+
     .hero {
-        background-image: url(../pictures/kolasehp.png)
+        background-image: url(../pictures/kolasehp.png);
+    }
+
+    .row .dokum h3{
+        font-family: 'Patrick Hand', cursive;
+        font-size: 1.8rem;
+        color: #a57f42;
+    }
+    
+    .row .dokum p{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1.4rem;
+    }
 
     .hasil img {
         height: auto;
         width: 350px;
+    }
+
+    .hasilteks p{
+        font-size: 1.5rem;
+
+    }
+
+    .hasilteks h3 {
+        margin-bottom: 1rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .hasil h2 {
+        font-size: 5rem;
+        margin-top: 2rem;
     }
 
     .team h1 {
