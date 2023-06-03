@@ -600,7 +600,7 @@ footer .credit p {
 
 /* Hapeee */
 
-@media (max-width: 450px) {
+@media (max-width: 480px) {
     html {
         font-size: 62.5%;
     }   
