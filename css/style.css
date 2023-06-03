@@ -651,7 +651,7 @@ footer .credit p {
         display: inline-block;
     }
 
-    .about h2{
+    .about h2 {
         margin-bottom: 1rem;
     }
 
@@ -659,13 +659,13 @@ footer .credit p {
         background-image: url(../pictures/kolasehp.png);
     }
 
-    .row .dokum h3{
+    .row .dokum h3 {
         font-family: 'Playfair', sans-serif;
         font-size: 1.8rem;
         color: #a57f42;
     }
     
-    .row .dokum p{
+    .row .dokum p {
         font-family: 'Montserrat', sans-serif;
         font-size: 1.2rem;
     }
